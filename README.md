@@ -23,3 +23,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 python client.py
 ```
+
+example run
+
+![](https://www.evernote.com/l/AAFaIvf7mthMmJO0Q4o62USTYJES2wvIXCsB/image.png)
