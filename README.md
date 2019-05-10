@@ -1,8 +1,11 @@
 # python-2.x-websocket-client-playground
 
+learn python [websocket-client](https://github.com/websocket-client/websocket-client) module
+
 ## prerequisites
 
 - python 2.x
+- node.js (for local websocket server. code is from https://glitch.com/~socketio-basic)
 - virtualenv: `pip install virtualenv` or `sudo pip install virtualenv`
 
 ## running
